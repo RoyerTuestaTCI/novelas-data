@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "titulo": "Pasión de Gavilanes",
+    "portada": "https://image.tmdb.org/t/p/original/ak40tJvlXZw4fJCEejwC7pMUWMS.jpg",
+    "sinopsis": "Los hermanos Reyes buscan vengar la muerte de su hermana...",
+    "pais": "Colombia",
+    "codigo": "co",
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          { "titulo": "Episodio 1", "url": "https://www.youtube.com/embed/dQw4w9WgXcQ" }
+        ]
+      }
+    ]
+  }
+]
