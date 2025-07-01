@@ -1,0 +1,34 @@
+[
+  {
+    "liga": "CHILE — FA CUP",
+    "bandera": "cl",
+    "partido": "Audax Italiano — Deportes Temuco",
+    "hora": "19:00",
+    "pronostico": "1 y más de 1.5 goles",
+    "stats": [69, 21, 10, 38, 48, 14, 87, 65, 40, 62, 38]
+  },
+  {
+    "liga": "CHILE — FA CUP",
+    "bandera": "cl",
+    "partido": "Nublense — Magallanes",
+    "hora": "20:00",
+    "pronostico": "más de 1.5 goles",
+    "stats": [51, 37, 12, 29, 58, 13, 88, 49, 24, 54, 46]
+  },
+  {
+    "liga": "ISLANDIA — FA CUP",
+    "bandera": "is",
+    "partido": "Valur Reykjavik — Stjarnan",
+    "hora": "16:30",
+    "pronostico": "ambos marcan",
+    "stats": [55, 32, 13, 35, 37, 28, 94, 78, 48, 75, 25]
+  },
+  {
+    "liga": "LETÔNIA — VIRSLIGA",
+    "bandera": "lv",
+    "partido": "SK Super Nova — FK Auda",
+    "hora": "12:00",
+    "pronostico": "más de 1.5 goles",
+    "stats": [43, 30, 27, 22, 50, 28, 75, 55, 32, 60, 40]
+  }
+]
