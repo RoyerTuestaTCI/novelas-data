@@ -205,7 +205,7 @@
         "episodios": [
           { "titulo": "Episodio 1", "url": "https://vk.com/video_ext.php?oid=1054273181&id=456239018" },
           { "titulo": "Episodio 2", "url": "https://vk.com/video_ext.php?oid=1054273181&id=456239019" },
-          { "titulo": "Episodio 3", "url": "https://vkvideo.ru/video1054273181_456239020" },
+          { "titulo": "Episodio 3", "url": "https://vk.com/video_ext.php?oid=1054273181&id=456239020" },
           { "titulo": "Episodio 4", "url": "https://vk.com/video_ext.php?oid=XXXXXXXXXX&id=XXXXXXXXXX" },
           { "titulo": "Episodio 5", "url": "https://vk.com/video_ext.php?oid=XXXXXXXXXX&id=XXXXXXXXXX" },
           { "titulo": "Episodio 6", "url": "https://vk.com/video_ext.php?oid=XXXXXXXXXX&id=XXXXXXXXXX" },
