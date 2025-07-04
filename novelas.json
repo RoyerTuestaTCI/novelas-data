@@ -10,7 +10,7 @@
       {
         "numero": 1,
         "episodios": [
-          { "titulo": "Episodio 1", "url": "https://vk.com/video1054273181_456239018" },
+          { "titulo": "Episodio 1", "url": "https://vk.com/video_ext.php?oid=1054273181&id=456239018" },
           { "titulo": "Episodio 2", "url": "https://vide0.net/e/jql8xapoqyog" },
           { "titulo": "Episodio 3", "url": "https://vide0.net/e/36f9s5549in1" },
           { "titulo": "Episodio 4", "url": "https://vide0.net/e/y2v91qqrc6b2" },
